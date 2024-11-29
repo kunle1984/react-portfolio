@@ -184,7 +184,7 @@ const testimonials = [
   {
     testimonial:
       "I love how he communicate effectively, bridging technical concepts and business goals effortlessly",
-    name: "Sara Lee",
+    name: "Loveth James",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -194,7 +194,7 @@ const testimonials = [
       "He consistently delivers robust, scalable, and innovative software solutions",
     name: "Chris Brown",
     designation: "COO",
-    company: "DEF Corp",
+    company: "Froke",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -363,7 +363,7 @@ const sideProjects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: portfolio,
     source_code_link: "https://github.com/kunle1984/kunle-portfolio",
     web_link: 'https://kunle-portfolio.onrender.com/'
   },
